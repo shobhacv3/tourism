@@ -1,4 +1,39 @@
-.overall {
-background-image:url("1.webp");
-background-size:cover;
+.back {
+	background-image:url("https://img.freepik.com/free-photo/road-with-yellow-lines_1112-907.jpg?size=626&ext=jpg&ga=GA1.2.179676532.1653303360");
+	background-size:cover;
+	width:100vw;
+	height:50vh;
+}
+.page {
+text-align:center;
+background-color:cyan;
+border-radius:30px;
+padding:10px;
+}
+.main-head {
+	color:red;
+	font-family:"roboto";
+	text-decoration:underline;
+	font-size:36px;
+	font-style:italic;
+	}
+.paragraph {
+	font-family:"roboto";
+	font-style:italic;
+	font-size:30px;
+	text-decoration:overline;
+}
+.button {
+	border-style:dashed;
+	border-radius:10px;
+	background-color:yellow;
+	width:100px;
+	color:white;
+	font-weight:bold;
+}
+.button-red {
+background-color:red;
+}
+.button-green {
+background-color:green;
 }

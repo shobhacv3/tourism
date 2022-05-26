@@ -1,0 +1,22 @@
+.bg-container {
+	background-image: url("codingbg.png");
+	background-size:cover;
+	height:100vh;
+	padding:30px;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+}
+.midpoint {
+	background-color:#00000080;
+	border-color:#48ee59;
+	border-style:solid;
+	border-width:10px;
+	padding:30px;
+}
+.code_1 {
+	color:white;
+	font-size:50px;
+	width:250px;
+	font-family:"bree-serif";
+}	

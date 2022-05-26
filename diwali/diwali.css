@@ -1,0 +1,35 @@
+.top-container {
+	background-image: url("diwali.png");
+	background-size:cover;
+	height:30vh;
+	width:100%;
+}
+.heading {
+	color:white;
+	font-family:"caveat";
+	font-size:36px;
+	width:300px;
+	padding:40px;
+}
+.bottom-container {
+text-align:center;
+padding:10px;
+}
+.card1 {
+	background-color:white;
+	width:150px;
+	height:200px;
+	margin:20px;
+	}
+.image {
+	height:120px;
+	width:80px;
+}
+.bottom-up {
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+}
+.para {
+	font-weight:bold;
+	}

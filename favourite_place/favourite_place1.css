@@ -1,0 +1,31 @@
+.bg-container {
+	background-image: url("fav1.png");
+	background-size:cover;
+	height:100vh;
+}
+.detailed-heading {
+	color:white;
+	font-family:"roboto";
+	font-size:30px;
+	font-style:bold;
+	padding:20px;
+}
+.card-container-data-heading {
+	color:black;
+	font-family:"roboto";
+	font-style:bold;
+	font-size:30px;
+}
+.card-container {
+	background-color:white;
+	border-radius:20px;
+	margin:20px;
+}
+.card-container-data {
+	padding:20px;
+}
+.card-container-data-description {
+	color:black;
+	font-family:"roboto";
+	font-size:15px;
+}

@@ -1,0 +1,31 @@
+.bg-container {
+	background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+	background-size:cover;
+	height:100vh;
+	font-family:"roboto";
+}
+.heading {
+color:white;
+padding:20px;
+font-weight:bold;
+font-size:28px;
+}
+.card {
+background-color:white;
+border-radius:20px;
+padding:20px;
+margin-bottom:10px;
+}
+.description {
+	color:#6c6b70;
+	font-size:13px;
+	}
+.image {
+	height:90px;
+	width:80px;
+	}
+.heading2 {
+	color:#0f0e46;
+	font-size:23px;
+	font-weight:bold;
+	}
